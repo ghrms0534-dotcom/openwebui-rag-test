@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <server>
+    <!-- 60분 타임아웃: 대용량 스캔 PDF 처리용 -->
+    <taskTimeoutMillis>3600000</taskTimeoutMillis>
+  </server>
+</properties>
